@@ -9,7 +9,7 @@
   <%
     } else {
   %>
-      <h2>Thanks for the course! We learned a lot of information in development</h2><p>(<%= num %>)</p>
+      <h2>Final Project - Gal And Netanel Thanks for the course! We learned a lot of information in development</h2><p>(<%= num %>)</p>
   <%
     }
   %>
